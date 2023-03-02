@@ -536,11 +536,22 @@ nav.navbar.navbar-default {
 .w3_banner_bottom_icons_right{
 	border-bottom:1px solid #483372;
 }
-.w3_banner_bottom_icons1{
+
+.w3_banner_bottom_icons1 {
     height: 320px;
+    padding:0.35em;
+    text-align:center;
+}
+
+@media only screen and (max-width: 600px) {
+.w3_banner_bottom_icons1 {
+    height: 450px;
 	padding:0.35em;
 	text-align:center;
+    }
 }
+
+
 .w3_banner_bottom_icons1 i{
 	font-size: 2em;
     color: #fff;
@@ -2824,7 +2835,7 @@ nav.navbar.navbar-default {
 .pricing-card {
     position: relative;
     top: 20px;
-    left: 200px;
+    left: 100px;
     width: 350px;
     height: 300px;
     padding: 30px;
