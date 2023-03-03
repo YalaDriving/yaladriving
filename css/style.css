@@ -10,7 +10,7 @@ body::-webkit-scrollbar{
 html, body{
     font-size: 100%;
 	font-family: 'Prompt', sans-serif;
-    background-image: linear-gradient(180deg, #59389c, #19102b, #120b22 );
+    background-image: linear-gradient(180deg, #ec0000, #ec5300 50%, #ec0000);
 	margin: 0;
     overflow-x: hidden;
 }
@@ -39,7 +39,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
 }
 /*-- banner --*/
 .header {
-    background: #19102b;
+    background: #eb9b00;
     padding: 0.5em 2em;
 	position:relative;
 }
@@ -92,7 +92,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
     font-size: 17px;
 }
 .agileinfo-social-grids ul li a i.fa.fa-facebook,.agileinfo-social-grids ul li a i.fa.fa-twitter,.agileinfo-social-grids ul li a i.fa.fa-rss{
-    color: #19102b;
+    color: #eb9b00;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -291,7 +291,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
 .cd-search input {
     border-radius: 0;
     border: none;
-    background: #ed207b;
+    background: #c9080f;
     width: 100%;
     padding: 0 5%;
 	-webkit-box-shadow: inset 0 1px 0 #e2e3df, 0 3px 6px rgba(0, 0, 0, 0.05);
@@ -376,7 +376,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a:hover{
-    color:#ed207b;
+    color:#c9080f;
 }
 .navbar-default .navbar-nav > li > a:focus {
     color: #fff;
@@ -402,7 +402,7 @@ nav.navbar.navbar-default {
 	color: #000;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    color: #19102b;
+    color: #eb9b00;
 }
 .navbar-brand {
     height: 42px;
@@ -412,7 +412,7 @@ nav.navbar.navbar-default {
 	letter-spacing: 2px;
 }
 .navbar-brand span{
-	color: #ed207b;
+	color: #c9080f;
 }
 .link-effect-2 a {
   overflow: hidden;
@@ -496,7 +496,7 @@ nav.navbar.navbar-default {
     top: 10px;
     width: 60px;
     height: 2px;
-    background: #ed207b;
+    background: #c9080f;
     display: inline-block;
     margin-left: 6px;
 }
@@ -515,7 +515,7 @@ nav.navbar.navbar-default {
 .agileits_w3layouts_banner_info h3{
 	text-align: center;
     font-size: 3em;
-    color: #ed207b;
+    color: #c9080f;
     text-transform: uppercase;
 }
 .agileits_w3layouts_banner_info p {
@@ -561,7 +561,7 @@ nav.navbar.navbar-default {
     border-radius: 50px;
     font-style: normal;
     display: inline-block;
-    background: #19102b;
+    background: #eb9b00;
 	line-height: 2.5em;
 }
 .fa-car:before {
@@ -586,7 +586,7 @@ nav.navbar.navbar-default {
 }
 .w3_banner_bottom_icons1 h3:before{
 	content: '';
-    background: #19102b;
+    background: #eb9b00;
     width: 25%;
     height: 2px;
     position: absolute;
@@ -620,7 +620,7 @@ nav.navbar.navbar-default {
 }
 .w3_banner_bottom_icons1:hover{
     border-radius: 50px;
-	background:#483372;
+	background: #ffba30;
 }
 .w3_agile_banner_bottom{
 	position:relative;
@@ -699,7 +699,7 @@ nav.navbar.navbar-default {
 	color:#fff;
 }
 .w3layouts_register_left h3 span{
-	color:#ed207b;
+	color:#c9080f;
 }
 .w3layouts_register_left p{
 	margin:2em 0 0;
@@ -725,7 +725,7 @@ nav.navbar.navbar-default {
 }
 .w3layouts_register_right input[type="submit"]{
 	outline:none;
-	background:#ed207b;
+	background:#c9080f;
 	padding:12px 0;
 	border:none;
 	font-size:1em;
@@ -736,7 +736,7 @@ nav.navbar.navbar-default {
 	letter-spacing:3px;
 }
 .w3layouts_register_right input[type="submit"]:hover{
-	background:#19102b;
+	background:#eb9b00;
 }
 .w3layouts_register_right input[type="text"]:nth-child(2),.w3layouts_register_right input[type="submit"]{
 	margin:1.5em 0 0;
@@ -753,7 +753,7 @@ p.ever{
 	text-align:center;
 }
 .about-grid1 {
-    background:#19102b;
+    background:#eb9b00;
     padding: 2em 2em 2em 10em;
 	position:relative;
 	 -webkit-transition: all 0.5s ease-out;
@@ -769,7 +769,7 @@ p.ever{
     color:#fff;
 }
 .about-grid1:hover .itis h4{
-	color:#ed207b;
+	color:#c9080f;
 }
 .about-grid1-pos{
 	position: absolute;
@@ -872,16 +872,16 @@ p.ever{
     border-bottom: 1px solid #ffffff;
 }
 .nav-tabs > li > a:hover {
-    border: 1px solid #19102b;
-    background: #19102b !important;
+    border: 1px solid #eb9b00;
+    background: #eb9b00 !important;
     color: #fff;
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background: none;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    border: 1px solid #19102b;
-    background: #19102b !important;
+    border: 1px solid #eb9b00;
+    background: #eb9b00 !important;
     color: #fff !important;
 }
 .nav-tabs > li > a:focus{
@@ -889,7 +889,7 @@ p.ever{
 }
 .w3agile_tab_left h4 {
     font-size: 2em;
-    color: #ed207b;
+    color: #c9080f;
     font-weight: 600;
     text-transform: capitalize;
     margin-bottom: 1em;
@@ -942,7 +942,7 @@ p.ever{
 }
 .w3ls_head:before, .w3ls_head:after {
     position: absolute;
-    background:#ed207b;
+    background:#c9080f;
     height: 2px;
     content: '';
 }
@@ -1019,7 +1019,7 @@ p.ever{
 	display:block;
 }
 .footer-grid-info p span a{
-    color: #ed207b;
+    color: #c9080f;
     text-decoration: none;
 }
 .footer-grid-info p span a:hover{
@@ -1055,7 +1055,7 @@ p.ever{
 	margin:0;
 }
 .w3agile_footer_grid_list ul li a{
-	color: #ed207b;
+	color: #c9080f;
     text-decoration: none;
 }
 .w3agile_footer_grid_list ul li a:hover{
@@ -1078,7 +1078,7 @@ p.ever{
     color: #999999;
 }
 .agileits-w3layouts-copyright p a {
-    color: #ed207b;
+    color: #c9080f;
     text-decoration: none;
 }
 .agileits-w3layouts-copyright p a:hover {
@@ -1180,7 +1180,7 @@ p.ever{
 }
 h3.icon-subheading {
     font-size: 28px;
-    color:#ed207b !important;
+    color:#c9080f !important;
     margin: 30px 0 15px;
     font-weight: 600;
     letter-spacing: 2px;
@@ -1348,7 +1348,7 @@ li.list-group-item1 {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
     margin-bottom: 1em;
-    color: #ed207b;
+    color: #c9080f;
     font-size: 30px;
     letter-spacing: 2px;
 }
@@ -1559,7 +1559,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
     margin-top: 1em;
 }
 .address p i.glyphicon { 
-    color: #ed207b;
+    color: #c9080f;
     margin-right: 0.5em;
 }
 .address p a {
@@ -1597,20 +1597,20 @@ input.email {
 }
 .contact-agileinfo input[type="submit"] {
     border: none;
-    outline: 2px solid #ed207b;
+    outline: 2px solid #c9080f;
     color: #fff;
     padding: .6em 3em;
     font-size: 1em;
     margin: 1em 1em 0 0;
     -webkit-appearance: none;
-    background: #ed207b;
+    background: #c9080f;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
 }
 .contact-agileinfo input[type="submit"]:hover {
     background: none;
-    color: #ed207b;
+    color: #c9080f;
     letter-spacing: 2px;
 }
 .agileits-w3layouts-map iframe {
@@ -1625,7 +1625,7 @@ input.email {
 /*-- services --*/
 .agileits_services_grid h3 {
     font-size: 1.5em;
-    color: #ed207b;
+    color: #c9080f;
     text-transform: capitalize;
     letter-spacing: 2px;
     margin-top: 1em;
@@ -1648,18 +1648,18 @@ input.email {
 	color:#212121;
 	text-transform:uppercase;
 	padding:10px 0;
-	border:2px solid #ed207b;
+	border:2px solid #c9080f;
 	font-weight:600;
 	letter-spacing:2px;
 	text-decoration:none;
 }
 .w3layouts_more a i{
 	padding-left:1em;
-	color:#ed207b;
+	color:#c9080f;
 }
 .w3layouts_more a:hover{
-	background:#19102b;
-	border:2px solid #19102b;
+	background:#eb9b00;
+	border:2px solid #eb9b00;
 	color:#fff;
 }
 .w3layouts_more a:hover i{
@@ -1709,7 +1709,7 @@ input.email {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: #19102b;
+    background: #eb9b00;
 }
 .close {
     opacity: 1;
@@ -2012,7 +2012,7 @@ button.close {
 }
 /*-- //team --*/
 .wthree-services-right-top h4 {
-    color: #ed207b;
+    color: #c9080f;
     font-size: 1.2em;
     margin: 0;
     font-weight: 600;
@@ -2020,11 +2020,11 @@ button.close {
     text-transform: uppercase;
 }
 .services-bottom-icon i.fa.fa-bell, .services-bottom-icon i.fa.fa-asterisk {
-    color: #19102b;
+    color: #eb9b00;
     font-size: 2em;
 }
 .services-bottom-info h5 {
-    color: #ed207b;
+    color: #c9080f;
     font-size: 1em;
     margin: 0;
     font-weight: 600;
@@ -2817,7 +2817,7 @@ nav.navbar.navbar-default {
 .services{
     margin: 0 auto;
     width: 100%;
-    background-color: #36245a;
+    background-color: #eb9b00;
     border-radius: 50px;
 }
 
@@ -2841,7 +2841,7 @@ nav.navbar.navbar-default {
     padding: 30px;
     background-color: #59389c;
     border-radius: 20px;
-    box-shadow: 20px 20px 0px -5px #ed207b;
+    box-shadow: 20px 20px 0px -5px #c9080f;
     text-align: center;
     border: 2px solid #000; /* added black border */
   }
@@ -2859,7 +2859,7 @@ nav.navbar.navbar-default {
   .card-button {
     position:relative;
     top: 40px;
-    background-color: #ed207b;
+    background-color: #c9080f;
     color: #fff;
     border: none;
     border-radius: 20px;
