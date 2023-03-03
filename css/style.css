@@ -10,7 +10,7 @@ body::-webkit-scrollbar{
 html, body{
     font-size: 100%;
 	font-family: 'Prompt', sans-serif;
-    background-image: linear-gradient(180deg, #ec0000, #ec5300 50%, #ec0000);
+    background-image: linear-gradient(180deg, #59389c, #19102b, #120b22 );
 	margin: 0;
     overflow-x: hidden;
 }
@@ -39,7 +39,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
 }
 /*-- banner --*/
 .header {
-    background: #eb9b00;
+    background: #19102b;
     padding: 0.5em 2em;
 	position:relative;
 }
@@ -92,7 +92,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
     font-size: 17px;
 }
 .agileinfo-social-grids ul li a i.fa.fa-facebook,.agileinfo-social-grids ul li a i.fa.fa-twitter,.agileinfo-social-grids ul li a i.fa.fa-rss{
-    color: #eb9b00;
+    color: #19102b;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -402,7 +402,7 @@ nav.navbar.navbar-default {
 	color: #000;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    color: #eb9b00;
+    color: #19102b;
 }
 .navbar-brand {
     height: 42px;
@@ -561,7 +561,7 @@ nav.navbar.navbar-default {
     border-radius: 50px;
     font-style: normal;
     display: inline-block;
-    background: #eb9b00;
+    background: #19102b;
 	line-height: 2.5em;
 }
 .fa-car:before {
@@ -586,7 +586,7 @@ nav.navbar.navbar-default {
 }
 .w3_banner_bottom_icons1 h3:before{
 	content: '';
-    background: #eb9b00;
+    background: #19102b;
     width: 25%;
     height: 2px;
     position: absolute;
@@ -736,7 +736,7 @@ nav.navbar.navbar-default {
 	letter-spacing:3px;
 }
 .w3layouts_register_right input[type="submit"]:hover{
-	background:#eb9b00;
+	background:#19102b;
 }
 .w3layouts_register_right input[type="text"]:nth-child(2),.w3layouts_register_right input[type="submit"]{
 	margin:1.5em 0 0;
@@ -753,7 +753,7 @@ p.ever{
 	text-align:center;
 }
 .about-grid1 {
-    background:#eb9b00;
+    background:#19102b;
     padding: 2em 2em 2em 10em;
 	position:relative;
 	 -webkit-transition: all 0.5s ease-out;
@@ -872,16 +872,16 @@ p.ever{
     border-bottom: 1px solid #ffffff;
 }
 .nav-tabs > li > a:hover {
-    border: 1px solid #eb9b00;
-    background: #eb9b00 !important;
+    border: 1px solid #19102b;
+    background: #19102b !important;
     color: #fff;
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background: none;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    border: 1px solid #eb9b00;
-    background: #eb9b00 !important;
+    border: 1px solid #19102b;
+    background: #19102b !important;
     color: #fff !important;
 }
 .nav-tabs > li > a:focus{
@@ -1658,8 +1658,8 @@ input.email {
 	color:#c9080f;
 }
 .w3layouts_more a:hover{
-	background:#eb9b00;
-	border:2px solid #eb9b00;
+	background:#19102b;
+	border:2px solid #19102b;
 	color:#fff;
 }
 .w3layouts_more a:hover i{
@@ -1709,7 +1709,7 @@ input.email {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: #eb9b00;
+    background: #19102b;
 }
 .close {
     opacity: 1;
@@ -2020,7 +2020,7 @@ button.close {
     text-transform: uppercase;
 }
 .services-bottom-icon i.fa.fa-bell, .services-bottom-icon i.fa.fa-asterisk {
-    color: #eb9b00;
+    color: #19102b;
     font-size: 2em;
 }
 .services-bottom-info h5 {
