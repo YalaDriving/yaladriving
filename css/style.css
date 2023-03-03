@@ -620,7 +620,7 @@ nav.navbar.navbar-default {
 }
 .w3_banner_bottom_icons1:hover{
     border-radius: 50px;
-	background: #ffba30;
+	background:#483372;
 }
 .w3_agile_banner_bottom{
 	position:relative;
@@ -2817,7 +2817,7 @@ nav.navbar.navbar-default {
 .services{
     margin: 0 auto;
     width: 100%;
-    background-color: #eb9b00;
+    background-color: #36245a;
     border-radius: 50px;
 }
 
@@ -2839,7 +2839,7 @@ nav.navbar.navbar-default {
     width: 350px;
     height: 300px;
     padding: 30px;
-    background-color: #eb9b00;
+    background-color: #59389c;
     border-radius: 20px;
     box-shadow: 20px 20px 0px -5px #c9080f;
     text-align: center;
