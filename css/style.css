@@ -2901,3 +2901,8 @@ nav.navbar.navbar-default {
     margin: 0;
     padding: 0;
   }
+
+  .img-equal-size{
+    width: 550px;
+    height: 450px;
+  }
