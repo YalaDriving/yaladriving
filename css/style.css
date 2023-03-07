@@ -2906,3 +2906,7 @@ nav.navbar.navbar-default {
     width: 550px;
     height: 450px;
   }
+
+  .home-img{
+    border-radius: 30px;
+  }
